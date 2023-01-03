@@ -1,6 +1,6 @@
 # pythonml
 
-Thanks for your interest, here you will find examples of Data Analysis.
+Thanks for your interest, here you will find examples of Machine Learning apllied to Data Analysis .
 
 
 
